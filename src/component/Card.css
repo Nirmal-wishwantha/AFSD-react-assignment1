@@ -1,0 +1,52 @@
+.cardbbody{
+    display: flex;
+    justify-content: space-around;
+}
+
+/* card */
+
+.card{
+    border: 1px solid;
+    border-radius: 20px;
+    border-color: black;
+    margin: 10px;
+    width: 400px;
+    
+}
+
+/* name */
+.name{
+    text-align: center;
+    text-decoration: underline overline;
+    height: 27px;
+}
+
+
+/* discription topic */
+.discriptxt{
+text-align: center;
+font-size: 18px;
+font-weight: 600;
+text-decoration: underline;
+margin: 0 20px;
+border-radius: 6px;
+}
+
+
+/* paragrap */
+.paragraf{
+    text-align: justify;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+/* Address, Age */
+.txtstyle{
+    margin-left: 20px;
+    margin-right: 150px;
+    font-weight: 600;
+    height: 25px;
+    border-radius: 6px;
+    padding:3px;
+
+}
