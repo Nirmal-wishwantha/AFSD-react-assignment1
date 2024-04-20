@@ -16,7 +16,7 @@ function App() {
 
 
 
-      <Card />
+      <Card name={'Supun sadaruwan '}/>
 
       <Card />
 
